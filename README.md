@@ -1,2 +1,2 @@
-# spam-detector
-Modelo de ML para predizer spam
+# Spam Detector
+Spam Detection with Machine Learning
